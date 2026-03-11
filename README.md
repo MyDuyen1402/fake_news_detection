@@ -1,7 +1,5 @@
 # Fake News Detection with NLP
 
-> **NLP Final Project** — A comparative study of deep learning and transformer-based approaches for automatically classifying news articles as real or fake.
-
 ---
 
 ## Table of Contents
